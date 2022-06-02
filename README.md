@@ -8,3 +8,6 @@
 ```
 go run main.go
 ```
+
+This project is inspired mainly by https://www.youtube.com/watch?v=jFfo23yIWac&t=1703s
+Thanks for the hardwork.
